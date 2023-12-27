@@ -1,0 +1,12 @@
+,Minimum Eigenvalue,Average Eigenvalue,Maximum Eigenvalue
+Industrials,0.371246,0.763932,0.991721
+Health Care,0.092157,0.62144,0.994153
+Information Technology,0.374081,0.809351,0.992738
+Communication Services,0.752488,0.926293,0.982263
+Consumer Discretionary,0.447563,0.810433,0.99065
+Utilities,0.042115,0.599877,0.985648
+Financials,0.152575,0.631218,1.00434
+Materials,0.137838,0.621833,0.991744
+Real Estate,0.763563,0.919369,0.982785
+Consumer Staples,0.546458,0.852121,0.991508
+Energy,0.825707,0.930601,0.985577
